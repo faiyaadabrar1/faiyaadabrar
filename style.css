@@ -1,0 +1,10 @@
+body{
+	text-align: center;
+	font-family: 'Noto Sans', sans-serif;
+}
+.reg{
+	color: navy;
+}
+.reg span{
+	color:red;
+}
